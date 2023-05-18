@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-6. The script will generate a word cloud visualization based on the frequency of words in the input text and display it using Matplotlib.
+6. The script will generate a word cloud visualization based on the frequency of words in the input text and save it to wordcloud.png.
 
 ## Example
 
