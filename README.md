@@ -52,7 +52,7 @@ Curabitur tempus malesuada metus, id cursus nulla aliquet nec.
 Nulla facilisi. Etiam tempus dapibus orci nec pharetra.
 
 Output:
-![Word Cloud](word_cloud.png)
+![Word Cloud](wordcloud.png)
 
 ## Contributing
 
